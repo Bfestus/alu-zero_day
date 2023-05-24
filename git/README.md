@@ -1,1 +1,1 @@
-festus readme 
+This Repository is for git projects
